@@ -1,5 +1,17 @@
+/*
+* File: App.java
+* Author: Vámosi László Ádám
+* Copyright: 2025, Vámosi László Ádám
+* Group: I-N
+* Date: 2025-03-11
+* GitHub: https://github.com/vamosilaszloadam/
+* Licenc: MIT
+*/
+
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        System.out.println("\nVámosi László Ádám, I-N, 2025-03-11");
+        System.out.println("A program a Laktat Kft. dolgozóinak adataival dolgozik.\n");
+        Solution.startSolution();
     }
 }
